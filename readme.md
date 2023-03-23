@@ -1,4 +1,3 @@
-```
 
 # Portfólio Olá, Bem vindo ao meu projeto de portfólio.
 
@@ -17,5 +16,3 @@
 ### Gustavo Betete Castiglioni
 
 ### Linkedin: https://www.linkedin.com/in/gustavo-betete/
-
-```
